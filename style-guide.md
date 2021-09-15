@@ -15,7 +15,7 @@ These should be clarified, and defined consistently within our own docs and read
     - We could also define optional additional descriptions when referring to the full, all-inclusive Flux project
 2. "Flux" CLI
     - This is the `flux` binary compiled for different architectures from the Go project at GitHub `fluxcd/flux2`
-3. "Flux" Controllers
+3. "Flux" controllers
 4. "Flux" Go packages
     - The "GitOps Toolkit" is what we call a set of Flux Controllers and reusable Go packages for GitOps under the `fluxcd` GitHub org. Note that we only list the controllers (at fluxcd.io > GitOps Toolkit > components), not also the Packages on which the controllers are built and which others can use to build their own 🤔 should we?
     - Example description:
