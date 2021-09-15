@@ -29,7 +29,7 @@ These should be clarified, and defined consistently within our own docs and read
             >
             > Flagger implements several deployment strategies (Canary releases, A/B testing, Blue/Green mirroring) using a service mesh (App Mesh, Istio, Linkerd, Open Service Mesh) or an ingress controller (Contour, Gloo, NGINX, Skipper, Traefik) for traffic routing. For release analysis, Flagger can query Prometheus, Datadog, New Relic or CloudWatch and for alerting it uses Slack, MS Teams, Discord, Rocket and Google Chat.
             >
-            > Flagger is a Cloud Native Computing Foundation project and part of Flux family of GitOps tools.
+            > Flagger is a Cloud Native Computing Foundation project and part of the Flux family of GitOps tools.
             >
             > Flagger documentation can be found at docs.flagger.app.
 
