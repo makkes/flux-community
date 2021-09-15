@@ -2,7 +2,7 @@
 
 This style guide defines how and in which contexts different Flux descriptions may be used.
 
-## Disambiguity
+## Disambiguation
 
 There is some understandable ambiguity when describing Flux in different contexts. For example, "Flux" is the name of a CNCF project which includes Flagger as a sub-project. There is a `flux` CLI command. Flux is sometimes described as being comprised of controller components, which (in addition to reusable Go packages?) we call the GitOps Toolkit. Flux is also sometimes used to refer only to the CLI + controllers, without the optional Flagger sub-project.
 
